@@ -15,6 +15,8 @@ Many of the parts for TractorBot were provided by our sponsor [Rapid Electronics
 
 The code and schematics for the interface board are currently being prepared to make them suitable for general release. These will be released as soon as ready over the next couple of months.
 
+For the electronics, including Fritzing diagrams, Ki-CAD schematics and information how it all works click [here](electronics/electronics.md)
+
 Hardware designed by Keith Ellis on behalf of [Ipswich Makerspace](http://ipswichmakerspace.com)
 
 ----
