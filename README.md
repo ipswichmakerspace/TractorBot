@@ -21,6 +21,6 @@ Hardware designed by Keith Ellis on behalf of [Ipswich Makerspace](http://ipswic
 
 ----
 
-Contact me - keithellis74@googlemail.com
+If you have any queries or questions please raise on the Ipswich Makerspace [forums](http://forums.ipswichmakerspace.com/)
 
 This is provided on an "as-is" basis and all rights are reserved, no warranty is provided and no responsibility will be taken for any harm or damage caused whatsoever.

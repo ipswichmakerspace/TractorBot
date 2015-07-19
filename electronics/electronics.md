@@ -34,15 +34,15 @@ The interface board is build on strip board, when using strip board is is often 
 ###Fritzing Stripboard layout###
 showing broken tracks
 
-![stripbaord](images/TractorBot stripboard.png)
+![stripbaord](../images/TractorBot stripboard.png)
 
 ###Fritzing interface board layout###
 complete with all wiring
 
-![Interface board](images/TractorBot_bb.png)
+![Interface board](../images/TractorBot_bb.png)
 
 ###Interface board map###
 showing header and terminal connection pin outs
-![Interface board mad](images/TractorBot instructions.png)
+![Interface board mad](../images/TractorBot instructions.png)
 
 [Fritzing file](TractorBot.fzz), note this has been produced after the process of making the actual stripboard, I have done a thorough review to ensure as far as possible that it is correct but there may be a mistake which has been missed.  Please check carefully yourself before use.  I do not take any responsibility for a damaged Pi as a result of using this file.
