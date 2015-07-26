@@ -1,0 +1,7 @@
+echo "Compiling  $1...."
+g++ -std=c++0x -O0 -g3 -Wall -c -fmessage-length=0 -fpermissive -MMD -MP -MF"$1.d" -MT"$1.d" -o"$1.o" "$1.cpp"
+echo "Linking...."
+g++ -L/usr/local/lib -o"$1"  ./$1.o -lpthread -lpthread -lm -lwiringPi -lcwiid
+
+# -lmmal_core -lmmal -l mmal_util -lvcos -lbcm_host
+
