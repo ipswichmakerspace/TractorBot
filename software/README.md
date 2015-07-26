@@ -1,5 +1,5 @@
 
-# Dependences: cwiid - A Wii controller lib
+###Dependences: cwiid - A Wii controller lib
 
 ```
 git clone https://github.com/abstrakraft/cwiid.git
@@ -28,7 +28,7 @@ make
 sudo make install
 ```
 
-#Dependences: wiringPi - A neat lib for accessing the GPIO in a sane manner
+###Dependences: wiringPi - A neat lib for accessing the GPIO in a sane manner
 ```
 git clone git://git.drogon.net/wiringPi
 ```
@@ -37,7 +37,7 @@ cd wiringPi
 ./build
 ```
 
-#Build the code
+###Build the code
 
 Git clone the repo and use the buildme script in the software directory to build the TractorBot code.
 ```
