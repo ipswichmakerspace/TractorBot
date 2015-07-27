@@ -3,8 +3,9 @@
 
 ```
 git clone https://github.com/abstrakraft/cwiid.git
+(update: use git clone https://github.com/bogado/cwiid.git
+and you don't have to edit the wmdemo.c file) 
 ```
-
 ```
 sudo apt-get install gawk
 sudo apt-get install bison
@@ -19,7 +20,7 @@ sudo apt-get install bluetooth
 sudo apt-get install pkg-config
 sudo apt-get install python-dev
 ```
-**In the cwiid/wmdemo dir comment the str2ba line in wmdemo.c** (its a hack I know!):
+**In the cwiid/wmdemo dir comment the str2ba line in wmdemo.c** (*see update above):
 ```
 if (argc > 1) {
   //	str2ba(argv[1], &bdaddr);
