@@ -19,8 +19,16 @@ sudo apt-get install bluetooth
 sudo apt-get install pkg-config
 sudo apt-get install python-dev
 ```
-
-**After installing the above you should run the following in the cwiid directory**
+**In the cwiid/wmdemo dir comment the str2ba line in wmdemo.c** (its a hack I know!):
+```
+if (argc > 1) {
+  //	str2ba(argv[1], &bdaddr);
+}
+else {
+  bdaddr = *BDADDR_ANY;
+}
+```
+**Then run the following in the cwiid directory**
 ```
 autoreconf
 ./configure
