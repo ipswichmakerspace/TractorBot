@@ -17,7 +17,8 @@ The code and schematics for the interface board are currently being prepared to 
 
 For the electronics, including Fritzing diagrams, Ki-CAD schematics and information how it all works click [here](electronics/electronics.md)
 
-Hardware designed by Keith Ellis 
+Hardware designed by Keith Ellis
+
 Software written by Phil Willis in C++
 on behalf of [Ipswich Makerspace](http://ipswichmakerspace.com)
 
