@@ -1,5 +1,5 @@
 # TractorBot 2014
-Code and hardware files for TractorBot, the winner of the 2014 Robot Wars competition run by the CamJam team in Cambridge. The code, schematics and hardware files provided are exactly as the robot ran on the day of the 2014 competition. There is certainly room for improvement, and we expect this to be used as a solid base to start from, rather than a finished polished product. It worked for us, but your mileage may vary.
+Code and hardware files for TractorBot, the winner of the 2014 [PiWars](http://piwars.org) competition run by the CamJam team in Cambridge. The code, schematics and hardware files provided are exactly as the robot ran on the day of the 2014 competition. There is certainly room for improvement, and we expect this to be used as a solid base to start from, rather than a finished polished product. It worked for us, but your mileage may vary.
 
 If you have any questions please use our [forums](http://forums.ipswichmakerspace.com) 
 
@@ -13,9 +13,11 @@ Our chassis was cut by [Cedarcroft Productions](http://www.cedarcroftproductions
 
 Many of the parts for TractorBot were provided by our sponsor [Rapid Electronics](http://www.rapidonline.com/)
 
-The code and schematics for the interface board are now in this repository.  We have kept the information short and to the point, for example we do not provide instructions for the construction of the chassis.  this is quite self explanitory.  However if we get a few requests for more information and if time allows we may build on this information.
+The code and schematics for the interface board are now in this repository.  We have kept the information short and to the point, for example we do not provide instructions for the construction of the chassis,  this is quite self explanitory.  However if we get a few requests for more information and if time allows we may build on this information.
 
 For the electronics, including Fritzing diagrams, Ki-CAD schematics and information how it all works click [here](electronics/electronics.md)
+
+For a description of the hardware click [here](hardware/hardware.md)
 
 Hardware designed by Keith Ellis
 
@@ -26,6 +28,6 @@ on behalf of [Ipswich Makerspace](http://ipswichmakerspace.com)
 
 If you have any queries or questions please raise on the Ipswich Makerspace [forums](http://forums.ipswichmakerspace.com/)
 
-**TractorBot** is a Trademake of Ipswich Makerspace
+**TractorBot** is a Trademark of Ipswich Makerspace
 
 This is provided on an "as-is" basis and all rights are reserved, no warranty is provided and no responsibility will be taken for any harm or damage caused whatsoever.

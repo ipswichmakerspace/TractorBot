@@ -3,7 +3,7 @@
 ##General Description##
 TractorBot was designed to be cheap, we competed in the £75 and under catergory, and we were very honest with out pricing.  As a result we built our own interface board [see electronics](../electronics/electronics.md), and designed and lasercut our own chassis.
 
-The chassis was a simple design and consists of a single plate with four cheap motors attached to the plate with 'T' connection brackets.  We were always keen to do well in the obstacle course challege so we went with four wheel drive and kept the ground clearance as high as possible.  To aid the ground clearance we did not install a second plate beaneath the motors, insteade installed a small strengthening plate between the four wheels.
+The chassis was a simple design and consists of a single plate with four cheap motors attached to the plate with 'T' connection brackets.  We were always keen to do well in the obstacle course challege so we went with four wheel drive and kept the ground clearance as high as possible.  To aid the ground clearance we did not install a second plate beaneath the motors, instead, we installed a small strengthening plate between the four wheels.
 
 The image below shows TractorBot during development. 
 
