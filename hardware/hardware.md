@@ -7,7 +7,7 @@ The chassis was a simple design and consists of a single plate with four cheap m
 
 The image below shows TractorBot during development. 
 
-![Chassis](../images/Chassis1.png)
+![Chassis](../images/Chassis1.jpg)
 
 You can see the main plate, with the small strenghening plate below betwen the wheels, this was installed on 25mm long stand-offs.  On top of the plate there is a standard radio controlled car battery, which runs at 7.2v, the Raspoberry Pi was installed above the battery on stand-offs.  At the front we developed a universal mount system which allowed us to add and remove various sensors or attachments to suit each challenge.
 
