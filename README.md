@@ -13,7 +13,7 @@ Our chassis was cut by [Cedarcroft Productions](http://www.cedarcroftproductions
 
 Many of the parts for TractorBot were provided by our sponsor [Rapid Electronics](http://www.rapidonline.com/)
 
-The code and schematics for the interface board are currently being prepared to make them suitable for general release. These will be released as soon as ready over the next couple of months.
+The code and schematics for the interface board are now in this repository.  We have kept the information short and to the point, for example we do not provide instructions for the construction of the chassis.  this is quite self explanitory.  However if we get a few requests for more information and if time allows we may build on this information.
 
 For the electronics, including Fritzing diagrams, Ki-CAD schematics and information how it all works click [here](electronics/electronics.md)
 
